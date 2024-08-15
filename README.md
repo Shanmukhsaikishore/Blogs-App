@@ -1,7 +1,7 @@
 Project Name: **Blogs App** 
 
 ### URL:
-<a></a>
+<a>https://shanmukhblogs.ccbp.tech/</a>
 
 <br/>
 <div style="text-align: center;">
